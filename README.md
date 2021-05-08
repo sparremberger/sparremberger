@@ -1,28 +1,28 @@
 <div align="center">
-        <img width="100%" height = "250px" src="https://raw.githubusercontent.com/sparremberger/mysite/main/images/coding-system-banner_87720-2994.jpg" alt="cover" />
-        </div>
+  <img width="100%" height = "250px" src="https://raw.githubusercontent.com/sparremberger/mysite/main/images/coding-system-banner_87720-2994.jpg" alt="cover" />
+      </div>
+       
+  <h1> Olá, caro < visitante/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+   <p align='center'>
+       
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=sparremberger.sparremberger)
         
-        <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-        <p align='center'>
+   </p>
+   <div size='20px'> Meu nome é Alan Sparremberger. Obrigado por visitar minha página no Github :smile: 
+       </div>
         
-        ![visitors](https://visitor-badge.glitch.me/badge?page_id=sparremberger.sparremberger)
+   <h2> Sobre mim <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
         
-        </p>
-        <div size='20px'> Olá! Meu nome é Alan Sparremberger. Obrigado por visitar minha página no Github :smile: 
-        </div>
-        
-        <h2> Sobre mim <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-        
-        <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
         
         
-        - 🔭 Estou atualmente trabalhando em dois projetos, um encurtador/repositório de links e um webscrapper.
+   - 🔭 Estou atualmente trabalhando em dois projetos, um encurtador/repositório de links e um webscrapper.
+       
+   - 🌱 No momento estou estudando sobre Express, NodeJS e MongoDB 
+       
+   - 👯 Tenho interesse em colaborar em projetos e artigos de tecnologia 
         
-        - 🌱 No momento estou estudando sobre Express, NodeJS e MongoDB 
-        
-        - 👯 Tenho interesse em colaborar em projetos e artigos de tecnologia 
-        
-        - 💬 Converse comigo sobre programação, self hosting, segurança e qualquer outra coisa relacionada a tecnologia! 
+   - 💬 Converse comigo sobre programação, self hosting, segurança e qualquer outra coisa relacionada a tecnologia! 
         
         <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
         <a href= https://github.com/sparremberger?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
