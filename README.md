@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sparremberger/sparremberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-    <div align="center">
+<div align="center">
         <img width="100%" height = "250px" src="https://raw.githubusercontent.com/sparremberger/mysite/main/images/coding-system-banner_87720-2994.jpg" alt="cover" />
         </div>
         
